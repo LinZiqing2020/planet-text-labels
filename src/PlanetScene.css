@@ -1,0 +1,10 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.ring {
+    height: 100%;
+    width: 100%;
+    background: url(/src/ring.png) no-repeat center center;
+}
