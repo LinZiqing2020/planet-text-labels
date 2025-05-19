@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/planet-text-labels/static/css/main.1fd86628.css",
+    "main.js": "/planet-text-labels/static/js/main.94cfcc8c.js",
+    "static/js/453.795126af.chunk.js": "/planet-text-labels/static/js/453.795126af.chunk.js",
+    "static/media/ring.png": "/planet-text-labels/static/media/ring.7563599f948d5782ebd5.png",
+    "index.html": "/planet-text-labels/index.html",
+    "main.1fd86628.css.map": "/planet-text-labels/static/css/main.1fd86628.css.map",
+    "main.94cfcc8c.js.map": "/planet-text-labels/static/js/main.94cfcc8c.js.map",
+    "453.795126af.chunk.js.map": "/planet-text-labels/static/js/453.795126af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd86628.css",
+    "static/js/main.94cfcc8c.js"
+  ]
+}
